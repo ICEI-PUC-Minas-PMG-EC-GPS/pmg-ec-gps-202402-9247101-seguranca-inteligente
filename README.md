@@ -1,14 +1,14 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Segurança Inteligente 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto visa desenvolver um sistema de software baseado em visão computacional para análise multidisciplinar de imagens capturadas por câmeras de segurança. Inicialmente, o foco será em sistemas residenciais, mas o projeto tem potencial para ser expandido para aplicações comerciais e industriais. Para implementar este projeto, são necessárias competências em visão computacional, inteligência artificial (IA) e aprendizado de máquina (ML), gerenciamento de banco de dados, desenvolvimento de interfaces gráficas de usuário (GUI) para o ambiente mobile, e gerenciamento de nuvem. O objetivo principal do software é proporcionar uma análise em tempo real das imagens de segurança para aumentar a segurança e o conforto dos clientes. Entre as funcionalidades previstas estão: a implementação de "cercas elétricas virtuais" com configuração de horários específicos, que alerta o cliente caso qualquer pessoa atravesse o perímetro definido; vigilância em tempo real de veículos, ajustada conforme a localização das câmeras; identificação de possíveis ameaças, tanto de veículos quanto de pessoas; e reconhecimento de visitantes, diferenciando entre entregadores de serviços (como iFood e Correios) e servidores públicos (como funcionários da Cemig e Copasa). Por fim, vale destacar que todas essas funcionalidades estarão disponíveis em um aplicativo para dispositivos móveis.
 
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
+* [Rodrigo Reis do Va (com link para Github)](https://github.com/aluno1)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
