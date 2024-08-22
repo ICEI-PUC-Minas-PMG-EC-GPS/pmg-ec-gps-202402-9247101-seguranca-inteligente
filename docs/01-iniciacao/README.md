@@ -91,10 +91,10 @@
 
 | Nome            | Posição / Cargo        | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------       |---------------|-------------|-------------|
-| Maria Emanuelly | CEO do Grupo Porteiros | Contra Ativista | maria_damota@hotmnail.com | (35) 98112-8183 |
-| Bryan Vinicius  | Representante da INTELBRAS | Implementação Física | bryan_vinicius_damota@mindesign.com.br | (35) 99779-7570 |
-|                 |                        |               |             |             |
-|                 |                        |               |             |             |
+| Maria Emanuelly | CEO do Grupo Porteiros | Contra ativista | maria_damota@hotmnail.com | (35) 98112-8183 |
+| Bryan Vinicius  | Representante da INTELBRAS | Implementação física | bryan_vinicius@intelbrasr.com.br | (35) 99779-7570 |
+| Diego Benedito  | Síndico Condomínio Floresça | Adoção do sistema | diego-porto93@floresca.com | (31) 99764-0856 |
+| Daiane Camila   | Adm. do Boulevard Shopping | Adoção do sistema  | daiane_camila@boulervard.com.br | (31) 98874-5702 |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
