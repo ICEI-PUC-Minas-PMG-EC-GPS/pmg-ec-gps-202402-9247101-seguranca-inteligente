@@ -8,11 +8,10 @@ O projeto visa desenvolver um sistema de software baseado em visão computaciona
 
 ## Alunos integrantes da equipe
 
-* [Rodrigo Reis do Va (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Rodrigo Reis do Valle](https://github.com/drigohhh)
+* [Bruno Henrique Reis Almeida](https://github.com/brunohreis)
+* [Italo Henrique Soares dos Santos](https://github.com/Rikingg)
+* [Lucas de Souza Bueno](https://github.com/LucasBusavs)
 
 ## Professor responsável
 
