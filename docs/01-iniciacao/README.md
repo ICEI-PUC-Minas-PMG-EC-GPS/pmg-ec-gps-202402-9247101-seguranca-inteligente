@@ -51,7 +51,13 @@ O fator humano é um dos componentes críticos para as falhas no processo de vig
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivo geral: Auxiliar pessoas jurídicas e físicas com sua segurança.
+
+Objetivos gerais: 
+• Análise de imagens para identificação de pessoas e objetos.
+• Integrar software com o sistema de câmera de segurança existente ou a ser instalado.
+•  Hospedar o sistema em um serviço de cloud confiável
+• Comparar insegurança antes e posterior a implementação do sistema
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
