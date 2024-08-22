@@ -113,14 +113,14 @@
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+| Maria Emanuelly | Falha no projeto/fim   | Alta          | Média             | Negativo    | Convencendo sobre a não-adoção o projeto |
+| Bryan Vinicius  | Sucesso e Implementação em ampla escala | Alta    | Alta   | Positivo    | Divulgando para possíveis compradores |
+| Diego Benedito  | Adoção no sistema de segurança próprio | Baixo    | Média  | Positivo    | Primeiro apoiador do projeto |
+| Daiane Camila   | Adoção ampla em seus empreendimentos   | Alta     | Alta   | Positivo    | Principal apoiadora visando expansão |
+|                 |                        |               |                   |             |               |
+|                 |                        |               |                   |             |               |
+|                 |                        |               |                   |             |               |
+|                 |                        |               |                   |             |               |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
