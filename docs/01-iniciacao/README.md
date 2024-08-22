@@ -54,10 +54,10 @@ O fator humano é um dos componentes críticos para as falhas no processo de vig
 Objetivo geral: Auxiliar pessoas jurídicas e físicas com sua segurança.
 
 Objetivos gerais: 
-• Análise de imagens para identificação de pessoas e objetos.
-• Integrar software com o sistema de câmera de segurança existente ou a ser instalado.
-•  Hospedar o sistema em um serviço de cloud confiável
-• Comparar insegurança antes e posterior a implementação do sistema
+* Análise de imagens para identificação de pessoas e objetos.
+* Integrar software com o sistema de câmera de segurança existente ou a ser instalado.
+* Hospedar o sistema em um serviço de cloud confiável
+* Comparar insegurança antes e posterior a implementação do sistema
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -78,7 +78,15 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Entregar dentro do prazo que foi estipulado no contrato com no máximo um mês de atraso para evitar o pagamento de multa.
+
+* Entregar um software inteligente e confiável que tenha contra medidas para possíveis acidentes naturais como falta de energia e que consiga detectar avaria nos equipamentos.
+
+* Conseguir lucrar com o projeto.
+
+* Conseguir otimizar o projeto para deixar com menos requisitos de hardware sem perder qualidade.
+
+* Conseguir um aumento significativo de segurança nas áreas em que forem instaladas o sistema.
 
 > Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
