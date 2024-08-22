@@ -41,8 +41,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+O fator humano é um dos componentes críticos para as falhas no processo de vigilância residencial. Isso porque, a atividade humana está sempre sujeita à falhas, por diversos motivos. Por exemplo, um porteiro que trabalha de madrugada pode, por ventura, sentir sono e na
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
 > Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
