@@ -62,7 +62,7 @@ O fator humano é um dos componentes críticos para as falhas no processo de vig
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A execução do projeto se faz conveniente devido ao fato de que ele deve facilitar os processos que envolvem a vigilância residencial e comercial, uma vez que essa ocorrerá de forma automatizada, com alto índice de precisão em relação à identificação de pessoas pelas imagens das câmeras, e será instalada de forma personalizada, para atender às necessidades do cliente. Ademais, o uso do sistema que será produzido deve economizar recursos financeiros à longo prazo, já que descartará a necessidade de contratação de profissionais de vigilância, o que poderia acarretar em gastos elevados.
 
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
