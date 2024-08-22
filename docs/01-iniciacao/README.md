@@ -89,16 +89,16 @@
 
 ## Identificação das Partes Interessadas
 
-| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+| Nome            | Posição / Cargo   | Papel Projeto | E-mail      | Telefone    |
+|-----------------|-----------------  |---------------|-------------|-------------|
+| Grupo Porteiros | Parte Interessada |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
+|                 |                   |               |             |             |
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
