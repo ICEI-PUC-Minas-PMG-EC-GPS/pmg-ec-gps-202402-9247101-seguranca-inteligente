@@ -92,7 +92,7 @@
 | Nome            | Posição / Cargo        | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------       |---------------|-------------|-------------|
 | Maria Emanuelly | CEO do Grupo Porteiros | Contra Ativista | maria_damota@hotmnail.com | (35) 98112-8183 |
-|                 |                        |               |             |             |
+| Bryan Vinicius  | Representante da INTELBRAS | Implementação Física | bryan_vinicius_damota@mindesign.com.br | (35) 99779-7570 |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
