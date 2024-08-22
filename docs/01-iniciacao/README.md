@@ -90,9 +90,9 @@
 ## Identificação das Partes Interessadas
 
 | Nome            | Posição / Cargo        | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------       |--------------- |-------------|-------------|
-| Maria Emanuelly | CEO do Grupo Porteiros | Contra Ativista |             |             |
-|                 |                        |                |             |             |
+|-----------------|-----------------       |---------------|-------------|-------------|
+| Maria Emanuelly | CEO do Grupo Porteiros | Contra Ativista | maria_damota@hotmnail.com | (35) 98112-8183 |
+|                 |                        |               |             |             |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
 |                 |                        |               |             |             |
