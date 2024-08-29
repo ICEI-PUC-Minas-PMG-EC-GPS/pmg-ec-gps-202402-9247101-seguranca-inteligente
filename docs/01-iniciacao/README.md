@@ -266,8 +266,11 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| Garantia situacional do modelo | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| Garantia situacional do modelo | ALTA | 
+|RNF-002| Suporte multiplataforma do aplicativo móvel | BAIXA |
+|RNF-003| Serviço de suporte a longo prazo para clientes | ALTA |
+|RNF-004| Garantia de compatibilidade com diferentes modelos e marcas de camêras | MÉDIA |
+|RNF-005| Otimização para situações de alta demanda do sistema | ALTA |
 
 
 ### Restrições
