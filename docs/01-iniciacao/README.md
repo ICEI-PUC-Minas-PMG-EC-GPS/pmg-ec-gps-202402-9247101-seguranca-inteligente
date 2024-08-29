@@ -203,9 +203,9 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 3000 horas
+* Data de início: 01 / 08 / 2024
+* Data de término: 31 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 
@@ -247,8 +247,16 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Identificar possíveis ameaças a segurança na residência | ALTA | 
+|RF-002| Treinamento e ajuste do modelo | ALTA |
+|RF-003| Servidor primário para processamento da aplicação | ALTA |
+|RF-004| Servidor secundário para operações emergenciais | BAIXA |
+|RF-005| Sistema de processamento e detecção de vozes | BAIXA |
+|RF-006| Cadastro e login de usuários | MÉDIA |
+|RF-007| Aplicação móvel para gerenciamento | ALTO |
+|RF-008| Aplicação web para gerenciamento | ALTO |
+|RF-009| Autenticação e tratamento de dados dos Usuários | MÉDIA |
+|RF-010| Funcionalidade de histório detalhado de alertas | ALTA |
 
 ### Requisitos Não Funcionais
 
@@ -258,7 +266,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
+|RNF-001| Garantia situacional do modelo | MÉDIA     | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
 
 
