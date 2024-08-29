@@ -281,8 +281,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001| Comunicação contextual entre diferentes instâncias do sistema | ALTA | 
+|RE-002| Existência de diferentes modos de operação do aplicativo | MÉDIA |
+|RE-003| Diferenciação entre modelos específicos de veículos | BAIXA |
+|RE-004| Implantação de um sistema interno contra falhas elétricas | ALTA |
+|RE-005|  | ALTA |
 
 
 ### Contra-Escopo
