@@ -45,7 +45,7 @@ O fator humano é um dos componentes críticos para as falhas no processo de vig
 
 ## Objetivos
 
-Objetivo geral: Fornecer uma aplicação inteligente de auxílio à segurança residencial.
+Objetivo geral: Fornecer uma aplicação inteligente de auxílio à segurança residencial, por meio do uso de visão computacional e aprendizado de máquina.
 
 Objetivos específicos: 
 * Análise de imagens para identificação de pessoas e objetos.
