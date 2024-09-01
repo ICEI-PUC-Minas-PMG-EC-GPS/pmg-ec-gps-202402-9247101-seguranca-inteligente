@@ -4,8 +4,6 @@
 
 O projeto visa desenvolver um sistema de software baseado em visão computacional para análise multidisciplinar de imagens capturadas por câmeras de segurança. Inicialmente, o foco será em sistemas residenciais, mas o projeto tem potencial para ser expandido para aplicações comerciais e industriais. Para implementar este projeto, são necessárias competências em visão computacional, inteligência artificial (IA) e aprendizado de máquina (ML), gerenciamento de banco de dados, desenvolvimento de interfaces gráficas de usuário (GUI) para o ambiente mobile, e gerenciamento de nuvem. O objetivo principal do software é proporcionar uma análise em tempo real das imagens de segurança para aumentar a segurança e o conforto dos clientes. Entre as funcionalidades previstas estão: a implementação de "cercas elétricas virtuais" com configuração de horários específicos, que alerta o cliente caso qualquer pessoa atravesse o perímetro definido; vigilância em tempo real de veículos, ajustada conforme a localização das câmeras; identificação de possíveis ameaças, tanto de veículos quanto de pessoas; e reconhecimento de visitantes, diferenciando entre entregadores de serviços (como iFood e Correios) e servidores públicos (como funcionários da Cemig e Copasa). Por fim, vale destacar que todas essas funcionalidades estarão disponíveis em um aplicativo para dispositivos móveis.
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
-
 ## Alunos integrantes da equipe
 
 * [Rodrigo Reis do Valle](https://github.com/drigohhh)
