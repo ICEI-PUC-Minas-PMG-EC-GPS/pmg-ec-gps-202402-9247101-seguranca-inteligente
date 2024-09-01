@@ -48,10 +48,10 @@ O fator humano é um dos componentes críticos para as falhas no processo de vig
 Objetivo geral: Fornecer uma aplicação inteligente de auxílio à segurança residencial, por meio do uso de visão computacional e aprendizado de máquina.
 
 Objetivos específicos: 
-* Análise de imagens para identificação de pessoas e objetos.
-* Integrar software com o sistema de câmera de segurança existente ou a ser instalado.
+* Análise e segmentação de imagens para identificação de pessoas e objetos.
+* Integrar software com o sistema da câmera de segurança existente ou a ser instalada.
 * Hospedar o sistema em um serviço de cloud confiável.
-* Comparar insegurança anterior e posterior a implementação do sistema.
+* Comparar a insegurança anterior e posterior a implementação do sistema.
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
