@@ -281,7 +281,7 @@ A tabela a seguir apresenta as restrições do projeto.
 |RE-002| Existência de diferentes modos de operação do aplicativo | MÉDIA |
 |RE-003| Diferenciação entre modelos específicos de veículos | BAIXA |
 |RE-004| Implantação de um sistema interno contra falhas elétricas | ALTA |
-|RE-005|  | ALTA |
+|RE-005| Implantação de um sistema que contacte a polícia em caso de detecção de movimentos suspeitos | ALTA |
 
 
 ### Contra-Escopo
