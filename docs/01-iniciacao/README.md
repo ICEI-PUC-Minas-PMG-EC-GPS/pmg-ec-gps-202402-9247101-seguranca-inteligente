@@ -294,7 +294,9 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |------|-------------------------------------|
 |CE-001| Treinamento de modelo de LLM        |
 |CE-002| Pesquisa de viabilidade do mercado. |
-|CE-003| Instalção de câmeras e alarmes. |
+|CE-003| Instalção de câmeras. |
+|CE-004| Instalção de alarmes. |
+|CE-005| Host do Banco de Dados. |
 
 ### Condições para início do Projeto
 
