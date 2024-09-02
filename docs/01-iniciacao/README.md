@@ -184,8 +184,8 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 | Software de terceiros   | Contrato de Licença da LLM | 3000 h | R$ 20,00 | R$ 60.000,00 |
 | Licenciamento           | Direitos de imagens para treino | 0 h | R$ --- | Pode variar |
 | Serviços e treinamento  | Sistemas internos e preparação dos funcionários | 300 h | R$ 34,00 | R$ 10.200,00 |
-| Reserva de garantia     | Seguro em caso de gastos adicionais | 0 h | R$ 34,00 | R$ 10.200,00 |
-| **Total Geral**         |           |            |              |             |
+| Reserva de garantia     | Seguro em caso de gastos adicionais | 0 h | R$ --- | R$ 20.000,00 |
+| **Total Geral**         | Agregado dos valores | 3000 h | R$ 144,88 | R$ 434.648,00 |
 
 
 ## Estimativa de Prazo
