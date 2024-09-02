@@ -339,7 +339,9 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |M-5  | Integração definitiva para sistemas de segurança e monitoramento |
 |M-6  | Interface visual e experiência do usuário com o sistema finalizado do projeto |
 |M-7  | Garantia de implementação simplificada para o usuário final, como manuais e documentação |
-|M-7  |                                                                   |
+|M-8  | Reuniões finais com os clientes e investidores para possíveis mudanças ou adições no sistema |
+|M-9  | Mudanças de última hora com base no feedback, se necessário |
+|M-10 | Lançamento oficial da aplicação |
 
 ```diff
 + Tarefa 02
