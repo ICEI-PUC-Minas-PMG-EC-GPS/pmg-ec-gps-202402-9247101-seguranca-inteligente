@@ -165,7 +165,7 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 
 ## Estimativa de Custo
 
-A estimativa de custo do projeto envolveu a previsão de gastos relacionados às remuneração dos funcionários, ao hardware, às despesas com água, luz e Internet, à hospedagem e nuvem, aos softwares de terceiros, e aos serviços e treinamentos. Por fim, conclui-se que o projeto é viável e sua realização será lucrativa.
+A estimativa de custo do projeto envolveu a previsão de gastos relacionados às remuneração dos funcionários, ao hardware, às despesas com água, luz e Internet, à hospedagem e nuvem, aos softwares de terceiros, aos serviços e treinamentos, e também uma reserva de garantia. Por fim, conclui-se que o projeto é viável e sua realização será lucrativa.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -190,7 +190,18 @@ A estimativa de custo do projeto envolveu a previsão de gastos relacionados às
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto foi cuidadosamente planejado juntamente da equipe para ser concluído em um total de 3.000 horas de trabalho. 
+Nossa equipe estará totalmente dedicada a garantir que todas as etapas sejam executadas com excelência e dentro do prazo, tendo
+como data de inicio 01 de agosto de 2024, e término 31 de dezembro de 2024.
+
+Entendemos que imprevistos possam ocorrer, e por isso estamos considerando uma margem de duas semanas, ou seja, até 14 de janeiro
+de 2025, para a entrega final do projeto sem aplicação de multa. 
+
+Durante todo o período de desenvolvimento, nossa equipe de gestores de projeto estará disponível para fornecer atualizações regulares sobre o progresso das atividades. 
+Caso surjam dúvidas ou necessidade de alinhamentos, estaremos prontos para atendê-lo(a) de maneira ágil e eficiente.
+
+Estamos comprometidos em entregar um projeto de alta qualidade dentro do prazo estipulado e com total transparência. 
+Agradecemos a confiança depositada em nossa empresa e reiteramos nosso compromisso com a excelência em cada etapa do desenvolvimento.
 
 > A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
 > Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
@@ -321,12 +332,14 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  |  |
-|M-2  |           |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Demonstração do funcionamento das funções principais do modelo |
+|M-2  | Integração inicial do modelo em um sistema controlado de monitoramento |
+|M-3  | Concepção do sistema funcional do projeto para avaliação dos clientes e investidores |
+|M-4  | Aperfeiçoamento do modelo para situações do mundo real e adversas |
+|M-5  | Integração definitiva para sistemas de segurança e monitoramento |
+|M-6  | Interface visual e experiência do usuário com o sistema finalizado do projeto |
+|M-7  | Garantia de implementação simplificada para o usuário final, como manuais e documentação |
+|M-7  |                                                                   |
 
 ```diff
 + Tarefa 02
