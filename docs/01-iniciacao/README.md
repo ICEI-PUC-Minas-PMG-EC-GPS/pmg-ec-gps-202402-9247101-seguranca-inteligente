@@ -180,7 +180,7 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 | Recursos Humanos        | Salários, benefícios e garantias | 3000 h | R$ 99,50 | R$ 298.500,00 |
 | Hardware                | Máquina para treinamento do modelo | 600 h | R$ 35,00 | R$ 21.000,00 |
 | Despesas Mensais        | Água, Luz, Internet, entre outros | 3600 h | R$ 1,32 | R$ 4.752,00 |
-| Hospedagem e Nuvem      | Gasto com servidor remotos | 3600 h |              |             |
+| Hospedagem e Nuvem      | Gasto com servidor remotos | 3600 h | R$ 5,61 | R$ 20.196,00 |
 | Software de terceiros   |           |            |              |             |
 | Serviços e treinamento  |           |            |              |             |
 | **Total Geral**         |           |            |              |             |
