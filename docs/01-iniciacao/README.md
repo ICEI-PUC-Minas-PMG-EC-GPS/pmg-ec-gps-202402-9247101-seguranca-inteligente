@@ -181,8 +181,10 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 | Hardware                | Máquina para treinamento do modelo | 600 h | R$ 35,00 | R$ 21.000,00 |
 | Despesas Mensais        | Água, Luz, Internet, entre outros | 3600 h | R$ 1,32 | R$ 4.752,00 |
 | Hospedagem e Nuvem      | Gasto com servidor remotos | 3600 h | R$ 5,61 | R$ 20.196,00 |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
+| Software de terceiros   | Contrato de Licença da LLM | 3000 h | R$ 20,00 | R$ 60.000,00 |
+| Licenciamento           | Direitos de imagens para treino | 0 h | R$ --- | Pode variar |
+| Serviços e treinamento  | Sistemas internos e preparação dos funcionários | 300 h | R$ 34,00 | R$ 10.200,00 |
+| Reserva de garantia     | Seguro em caso de gastos adicionais | 0 h | R$ 34,00 | R$ 10.200,00 |
 | **Total Geral**         |           |            |              |             |
 
 
