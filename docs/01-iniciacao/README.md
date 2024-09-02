@@ -165,7 +165,7 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A estimativa de custo do projeto envolveu a previsão de gastos relacionados às remuneração dos funcionários, ao hardware, às despesas com água, luz e Internet, à hospedagem e nuvem, aos softwares de terceiros, e aos serviços e treinamentos. Por fim, conclui-se que o projeto é viável e sua realização será lucrativa.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -298,7 +298,7 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |CE-002| Pesquisa de viabilidade do mercado. |
 |CE-003| Instalação de câmeras. |
 |CE-004| Instalação de alarmes. |
-|CE-005| Host do Banco de Dados. |
+|CE-005| Gerenciamento do servidor de Banco de Dados em nuvem. |
 
 ### Condições para início do Projeto
 
@@ -310,6 +310,8 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |------|--------------------------------------------------|
 |CI-001| Assinatura de contrato de prestação de serviços. |
 |CI-002| Apresentação de garantias definidas no contrato. |
+|CI-003| Efetização do contrato da licença com a LLM |
+|CI-004| Configuração das máquinas para treinamento da LLM |
 
 ## Marcos Agendados e Entregas
 
@@ -319,8 +321,8 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
+|M-1  |  |
+|M-2  |           |
 |M-3  |                                                                   |
 |M-4  |                                                                   |
 |M-5  |                                                                   |
