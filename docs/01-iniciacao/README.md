@@ -55,22 +55,9 @@ Objetivos específicos:
 * Hospedar o sistema em um serviço de cloud confiável.
 * Comparar a insegurança anterior e posterior a implementação do sistema.
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-
 ## Justificativa
 
 A execução do projeto se faz conveniente devido ao fato de que ele deve facilitar os processos que envolvem a vigilância residencial e comercial, uma vez que essa ocorrerá de forma automatizada, com alto índice de precisão em relação à identificação de pessoas pelas imagens das câmeras, e será instalada de forma personalizada, para atender às necessidades do cliente. Ademais, o uso do sistema que será produzido deve economizar recursos financeiros à longo prazo, já que descartará a necessidade de contratação de profissionais de vigilância, o que poderia acarretar em gastos elevados.
-
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
 
 ## Critérios de Sucesso
 
@@ -84,18 +71,7 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 
 * Conseguir um aumento significativo de segurança nas áreas em que forem instaladas o sistema.
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
-
 # Partes Interessadas
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
@@ -105,19 +81,6 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 | Bryan Vinicius  | Representante da INTELBRAS | Implementação física | bryan_vinicius@intelbrasr.com.br | (35) 99779-7570 |
 | Diego Benedito  | Síndico Condomínio Floresça | Adoção do sistema | diego-porto93@floresca.com | (31) 99764-0856 |
 | Daiane Camila   | Adm. do Boulevard Shopping | Adoção do sistema  | daiane_camila@boulervard.com.br | (31) 98874-5702 |
-|                 |                        |               |             |             |
-|                 |                        |               |             |             |
-|                 |                        |               |             |             |
-|                 |                        |               |             |             |
-
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
 
@@ -127,18 +90,6 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 | Bryan Vinicius  | Sucesso e Implementação em ampla escala | Alta    | Alta   | Positivo    | Divulgando para possíveis compradores |
 | Diego Benedito  | Adoção no sistema de segurança próprio | Baixo    | Média  | Positivo    | Primeiro apoiador do projeto |
 | Daiane Camila   | Adoção ampla em seus empreendimentos   | Alta     | Alta   | Positivo    | Principal apoiadora visando expansão |
-|                 |                        |               |                   |             |               |
-|                 |                        |               |                   |             |               |
-|                 |                        |               |                   |             |               |
-|                 |                        |               |                   |             |               |
-
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
@@ -154,26 +105,9 @@ A execução do projeto se faz conveniente devido ao fato de que ele deve facili
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
 ## Estimativa de Custo
 
 A estimativa de custo do projeto envolveu a previsão de gastos relacionados às remuneração dos funcionários, ao hardware, às despesas com água, luz e Internet, à hospedagem e nuvem, aos softwares de terceiros, aos serviços e treinamentos, e também uma reserva de garantia. Por fim, conclui-se que o projeto é viável e sua realização será lucrativa.
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
@@ -203,54 +137,15 @@ Caso surjam dúvidas ou necessidade de alinhamentos, estaremos prontos para aten
 Estamos comprometidos em entregar um projeto de alta qualidade dentro do prazo estipulado e com total transparência. 
 Agradecemos a confiança depositada em nossa empresa e reiteramos nosso compromisso com a excelência em cada etapa do desenvolvimento.
 
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
 * Prazo previsto (em horas): 3000 horas
 * Data de início: 01 / 08 / 2024
 * Data de término: 31 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
 ## Declaração de Escopo
 
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
@@ -269,8 +164,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
@@ -283,8 +176,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 
 ### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as restrições do projeto. 
 
@@ -299,8 +190,6 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
@@ -313,8 +202,6 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
@@ -325,8 +212,6 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |CI-004| Configuração das máquinas para treinamento da LLM |
 
 ## Marcos Agendados e Entregas
-
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
 
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
