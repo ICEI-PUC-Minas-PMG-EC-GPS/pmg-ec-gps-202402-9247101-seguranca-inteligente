@@ -279,7 +279,7 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | Zoho | https://www.zoho.com/blog/pt-br |  Organizar visualmente o projeto, o plano e as suas dependências em detalhes. |
-| Cronograma do Projeto | | | |
+| Cronograma do Projeto | GitHub Project |https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/34/views/1| Utilizado para criar e designar tarefas parra os membros da equipe. |
 | Matriz RACI           | | | |
 
 ```diff
