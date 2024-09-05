@@ -160,7 +160,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-007| Aplicação móvel para gerenciamento | ALTO |
 |RF-008| Aplicação web para gerenciamento | ALTO |
 |RF-009| Autenticação e tratamento de dados dos Usuários | MÉDIA |
-|RF-010| Funcionalidade de histório detalhado de alertas | ALTA |
+|RF-010| Funcionalidade de histórico detalhado de alertas | ALTA |
 
 ### Requisitos Não Funcionais
 
