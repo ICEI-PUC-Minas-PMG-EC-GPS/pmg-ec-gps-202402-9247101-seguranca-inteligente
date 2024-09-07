@@ -241,19 +241,9 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe do projeto optou pelo uso das metodologias ágeis para o seu desenvolvimento, visto que os requisitos definidos previamente podem ser mudados para que o produto final atenda melhor os clientes. Visto isso, os frameworks ágeis a serem utilizados serão o Scrum e o XP.
+No que diz respeito ao processo que será utilizado, o software será implementado com design simples, com foco na entrega de incrementos funcionais, com integração contínua. 
+A organização do projeto será de acordo com o framework Scrum, que será implementado em sua totalidade, incluindo o planejamento da Sprint, as reuniões diárias, e a revisão e a retrospectiva das Sprints.
 
 ## Divisão de Papéis
 
@@ -274,13 +264,16 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | Zoho | https://www.zoho.com/blog/pt-br |  Organizar visualmente o projeto, o plano e as suas dependências em detalhes. |
-| Cronograma do Projeto | GitHub Project |https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/34/views/1| Utilizado para criar e designar tarefas parra os membros da equipe. |
-| Matriz RACI           | | | |
+| Repositório de código | GitHub             | https://github.com/XXXXXXX | Repositório do projeto a fins de controle de versão e sincronização. |
+| Ambiente de desenvolvimento | Visual Studio Code | | Definição de um ambiente de desenvolvimento de código padrão para o time. |
+| Protótipo Interativo| Figma | | Ambiente de desenvolvimento para a interface interativa do sistema em uma aplicação mobile| 
+| Documentos Textuais| Google Docs| | Produção da documentação do projeto, manuais de usuário final, bases para documentos contratuais, dentre outros arquivos textuais.|
+|Planilhas e Gráficos|Google Planilhas|| Armazenamento de planilhas para treinamento de modelo, detalhamento de gastos em gráficos, controle de equipe e análise de progresso para apresentações.|
+|Cronograma do Projeto|Github||Definição de prioridade de tarefas além de datas limites para os itens presentes no Backlog|
+|LLM|TensorFlow||Biblioteca padrão para treino e desenvolvimento do modelo de LLM, após o licenciamento da mesma|
+
+
+
 
 ```diff
 + Tarefa 03:
