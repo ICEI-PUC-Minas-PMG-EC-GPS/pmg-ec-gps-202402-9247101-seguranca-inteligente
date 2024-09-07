@@ -243,7 +243,7 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 A equipe do projeto optou pelo uso das metodologias ágeis para o seu desenvolvimento, visto que os requisitos definidos previamente podem ser mudados para que o produto final atenda melhor os clientes. Visto isso, os frameworks ágeis a serem utilizados serão o Scrum e o XP.
 No que diz respeito ao processo que será utilizado, o software será implementado com design simples, com foco na entrega de incrementos funcionais, com integração contínua. 
-A organização do projeto será de acordo com o framework Scrum, que será implementado em sua totalidade, incluindo o planejamento da Sprint, as reuniões diárias, e a revisão e a retrospectiva das Sprints.
+A organização do projeto será de acordo com o framework Scrum, que será implementado em sua totalidade, incluindo o planejamento das Sprints, as reuniões diárias, e a revisão e a retrospectiva das Sprints.
 
 ## Divisão de Papéis
 
