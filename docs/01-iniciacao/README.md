@@ -254,7 +254,7 @@ A organização do projeto será de acordo com o framework Scrum, que será impl
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+As ferramentas selecionadas abaixo têm o principal objetivo de reduzir custos com assinaturas ou licenças adicionais de softwares pagos. Elas foram escolhidas com base no que a equipe se sente mais confortável utilizando e já está habituada, com o intuito de acelerar o desenvolvimento sem grandes desvios causados por diferenças de familiaridade com determinados softwares.
 
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
