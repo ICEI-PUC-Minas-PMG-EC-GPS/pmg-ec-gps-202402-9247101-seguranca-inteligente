@@ -247,10 +247,13 @@ A organização do projeto será de acordo com o framework Scrum, que será impl
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- **Rodrigo Reis do Valle –** Responsável pelo licenciamento da LLM, pelo treinamento e preparação do modelo, além da integração com protótipos. Ele também ajusta parâmetros e refina o desempenho do modelo em diferentes cenários relacionados ao Machine Learning.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+- **Bruno Henrique Reis Almeida –** Focado no licenciamento das imagens de treino, caso necessário, além da coleta e tratamento de dados para o treinamento. Ele prepara os algoritmos de aprendizado e define metodologias de desenvolvimento voltadas para Machine Learning, otimizando a eficiência e precisão do treinamento.
+
+- **Italo Henrique Soares dos Santos –** Responsável pela validação do modelo em várias fases do desenvolvimento, pela criação da interface visual da aplicação móvel e pelo desenvolvimento de sistemas de suporte, como o sistema de login. Ele também gerencia o controle financeiro através de planilhas e organiza as apresentações para investidores, incluindo a preparação do material visual.
+
+- **Lucas de Souza Bueno –** Cuida do refinamento dos algoritmos e sistemas, liderando discussões estratégicas com investidores para direcionar o projeto. Ele atua como líder geral, desempenhando um papel semelhante ao de Scrum Master, garantindo que o desenvolvimento siga conforme planejado e buscando otimizações constantes no fluxo do projeto.
 
 ## Ferramentas
 
