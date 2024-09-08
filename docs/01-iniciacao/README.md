@@ -266,11 +266,11 @@ A organização do projeto será de acordo com o framework Scrum, que será impl
 | Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX | Repositório do projeto a fins de controle de versão e sincronização. |
 | Ambiente de desenvolvimento | Visual Studio Code | | Definição de um ambiente de desenvolvimento de código padrão para o time. |
-| Protótipo Interativo| Figma | | Ambiente de desenvolvimento para a interface interativa do sistema em uma aplicação mobile| 
+| Protótipo Interativo| Figma | | Ambiente de desenvolvimento para a interface interativa do sistema em uma aplicação mobile.| 
 | Documentos Textuais| Google Docs| | Produção da documentação do projeto, manuais de usuário final, bases para documentos contratuais, dentre outros arquivos textuais.|
 |Planilhas e Gráficos|Google Planilhas|| Armazenamento de planilhas para treinamento de modelo, detalhamento de gastos em gráficos, controle de equipe e análise de progresso para apresentações.|
 |Cronograma do Projeto|Github||Definição de prioridade de tarefas além de datas limites para os itens presentes no Backlog|
-|LLM|TensorFlow||Biblioteca padrão para treino e desenvolvimento do modelo de LLM, após o licenciamento da mesma|
+|LLM|TensorFlow||Biblioteca padrão para treino e desenvolvimento do modelo de LLM, após o licenciamento da mesma.|
 
 
 
