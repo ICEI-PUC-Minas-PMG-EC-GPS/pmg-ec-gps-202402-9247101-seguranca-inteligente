@@ -58,7 +58,7 @@
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável]([artefatos/estrutura_analitica_projeto.wbs](https://miro.com/welcomeonboard/d1hlbzBQMWE0ZUhVTzB4NDZNbXZVdHNoYTBqWjZ4eWRwaW9LS1BKWjdJMUFubklrRmRQMmdBdjRqcmZsblprb3wzNDU4NzY0NTk5OTk4NDMwNzE1fDI=?share_link_id=620927895530))
+- [Estrutura Analítica do Projeto - Editável]((https://miro.com/welcomeonboard/d1hlbzBQMWE0ZUhVTzB4NDZNbXZVdHNoYTBqWjZ4eWRwaW9LS1BKWjdJMUFubklrRmRQMmdBdjRqcmZsblprb3wzNDU4NzY0NTk5OTk4NDMwNzE1fDI=?share_link_id=620927895530))
 
 ```diff
 + Tarefa 04:
