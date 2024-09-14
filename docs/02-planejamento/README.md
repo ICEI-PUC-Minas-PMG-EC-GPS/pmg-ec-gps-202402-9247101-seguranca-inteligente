@@ -28,13 +28,43 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Projeto
+Segurança Inteligente
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+### Gerente do Projeto
+Lucas Bueno
+
+### Objetivo do projeto 
+Fornecer uma aplicação inteligente de auxílio à segurança residencial, por meio do uso de visão computacional e aprendizado de máquina.
+
+### Escopo do projeto
+
+### Restrições e Limites do projeto
+* Comunicação contextual entre diferentes instâncias do sistema.
+* Existência de diferentes modos de operação do aplicativo.
+* Diferenciação entre modelos específicos de veículos.
+* Implantação de um sistema interno contra falhas elétricas.
+* Implantação de um sistema que contacte a polícia em caso de detecção de movimentos suspeitos.
+  
+### Premissas
+* Assinatura de contrato de prestação de serviços.
+* Apresentação de garantias definidas no contrato.
+* Efetização do contrato da licença com a LLM.
+* Configuração das máquinas para treinamento da LLM.
+  
+### Marcos Agendados e Entregas
+|ID   | Marco do Projeto                                                  | 
+|-----|-------------------------------------------------------------------|
+|M-1  | Demonstração do funcionamento das funções principais do modelo |
+|M-2  | Integração inicial do modelo em um sistema controlado de monitoramento |
+|M-3  | Concepção do sistema funcional do projeto para avaliação dos clientes e investidores |
+|M-4  | Aperfeiçoamento do modelo para situações do mundo real e adversas |
+|M-5  | Integração definitiva para sistemas de segurança e monitoramento |
+|M-6  | Interface visual e experiência do usuário com o sistema finalizado do projeto |
+|M-7  | Garantia de implementação simplificada para o usuário final, como manuais e documentação |
+|M-8  | Reuniões finais com os clientes e investidores para possíveis mudanças ou adições no sistema |
+|M-9  | Mudanças de última hora com base no feedback, se necessário |
+|M-10 | Lançamento oficial da aplicação |
 
 # Estrutura Analítica do Projeto
 
@@ -50,14 +80,9 @@
 
 ![Estrutura Analítica do Projeto](images/estrutura.png)
 
-> Softwares recomendados: 
-> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
-> * [Draw.io](https://app.diagrams.net/)
-> * [ProjectLibre](https://www.projectlibre.com/)
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Estrutura Analítica do Projeto - Editável](https://miro.com/welcomeonboard/d1hlbzBQMWE0ZUhVTzB4NDZNbXZVdHNoYTBqWjZ4eWRwaW9LS1BKWjdJMUFubklrRmRQMmdBdjRqcmZsblprb3wzNDU4NzY0NTk5OTk4NDMwNzE1fDI=?share_link_id=620927895530)
 
 ```diff
