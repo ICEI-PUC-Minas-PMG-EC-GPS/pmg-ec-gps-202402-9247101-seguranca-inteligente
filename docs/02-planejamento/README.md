@@ -38,6 +38,13 @@ Lucas Bueno
 Fornecer uma aplicação inteligente de auxílio à segurança residencial, por meio do uso de visão computacional e aprendizado de máquina.
 
 ### Escopo do projeto
+* Definir requisitos funcionais e não funcionais, além de mapear necessidades dos usuários.
+* Configuração das máquinas para treinamento da LLM e desenvolvimento do modelo adequado.
+* Desenvolvimento de aplicação web e mobile para acesso ao monitoramento e configuração do sistema.
+* Integração do sistema de monitoramento com os softwares terceiros das diversas marcas de câmeras de vigilância.
+* Testar funcionalidade do software, integração com o serviço em cloud, e otimização do modelo para melhor desempenho.
+* Comercialização do produto e disponibilidade de suporte a usuários.
+
 
 ### Restrições e Limites do projeto
 * Comunicação contextual entre diferentes instâncias do sistema.
@@ -67,16 +74,6 @@ Fornecer uma aplicação inteligente de auxílio à segurança residencial, por 
 |M-10 | Lançamento oficial da aplicação |
 
 # Estrutura Analítica do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
-
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
 ![Estrutura Analítica do Projeto](images/EAP.png)
 
