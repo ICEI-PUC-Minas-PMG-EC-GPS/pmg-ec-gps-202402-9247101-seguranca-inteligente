@@ -78,7 +78,7 @@ Fornecer uma aplicação inteligente de auxílio à segurança residencial, por 
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Estrutura Analítica do Projeto](images/estrutura.png)
+![Estrutura Analítica do Projeto](images/EAP.png)
 
 
 ### Documento Editável
