@@ -95,20 +95,9 @@ Fornecer uma aplicação inteligente de auxílio à segurança residencial, por 
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A matriz de responsabilidades foi construída pela gerência do projeto, com o apoio da equipe de desenvolvimento, com a finalidade de tornar transparente e melhor gerenciável a execução dos processos ao longo do projeto. Assim, todos os envolvidos terão conhecimento dos seus papéis e saberão direcionar as tarefas aos profissionais corretos.
 
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
 
-> Informações Adicionais:
-> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
-> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
-> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
-> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
