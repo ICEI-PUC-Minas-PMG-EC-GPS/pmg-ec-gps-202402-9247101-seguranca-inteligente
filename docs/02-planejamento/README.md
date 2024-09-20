@@ -102,7 +102,6 @@ A matriz de responsabilidades foi construída pela gerência do projeto, com o a
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
 - [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
 
 ```diff
