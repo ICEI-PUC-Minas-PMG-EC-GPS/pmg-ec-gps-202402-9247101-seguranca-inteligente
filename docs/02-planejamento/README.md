@@ -97,7 +97,7 @@ Fornecer uma aplicação inteligente de auxílio à segurança residencial, por 
 
 A matriz de responsabilidades foi construída pela gerência do projeto, com o apoio da equipe de desenvolvimento, com a finalidade de tornar transparente e melhor gerenciável a execução dos processos ao longo do projeto. Assim, todos os envolvidos terão conhecimento dos seus papéis e saberão direcionar as tarefas aos profissionais corretos.
 
-![Matriz RACI](images/raci.png)
+![Matriz RACI](images/raci.PNG)
 
 
 ### Documento Editável
