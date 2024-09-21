@@ -102,7 +102,7 @@ A matriz de responsabilidades foi construída pela gerência do projeto, com o a
 
 ### Documento Editável
 
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
+- [Matriz de Responsabilidades (RACI) - Editável](artefatos/Matrix-RACI.docx)
 
 ```diff
 + Tarefa 05:
