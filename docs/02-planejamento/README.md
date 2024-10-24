@@ -144,6 +144,9 @@ A matriz de responsabilidades foi construída pela gerência do projeto, com o a
 
 ......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
 
+![Visao Geral Custo Tarefa](images/custo_da_tarefa.jpg)
+![Visao Geral Custo Recurso](images/custo_de_recursos.jpg)
+
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
 > Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
