@@ -187,51 +187,58 @@ A matriz de responsabilidades foi construída pela gerência do projeto, com o a
 
 ### Artefatos a serem verificados
 
-| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
-|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+| Artefato                               | Tipo Verif. | Data        | Responsável    | Métrica              | Data Correção | Ação Não Conform.                   | Resp. Avaliação | Resp. Correção |
+|----------------------------------------|-------------|-------------|----------------|----------------------|---------------|-------------------------------------|-----------------|----------------|
+| Protótipo funcional do modelo          | Manual      | 2024-08-15  | Equipe técnica | Precisão ≥ 90%       | 2024-08-20    | Revisar e ajustar parâmetros        | QA Líder        | Equipe técnica |
+| Integração inicial em ambiente controlado | Automático  | 2024-09-01  | DevOps         | Tempo de resposta ≤ 2s | 2024-09-05    | Refinar integração                 | DevOps          | Equipe técnica |
+| Documentação para avaliação de clientes | Manual      | 2024-09-20  | Documentação   | Clareza e completude  | 2024-09-25    | Reescrever partes ambíguas          | QA Líder        | Documentação   |
+| Testes para cenários adversos          | Automático  | 2024-10-10  | Equipe técnica | Precisão ≥ 85%       | 2024-10-15    | Ajustar treinamento do modelo       | QA Líder        | Equipe técnica |
+| Sistema final de monitoramento         | Manual      | 2024-11-05  | Equipe técnica | Conformidade total    | 2024-11-10    | Resolver inconsistências detectadas | QA Líder        | Equipe técnica |
+| Interface visual final                 | Manual      | 2024-11-25  | UI/UX Designer | Intuitividade ≥ 90%  | 2024-11-30    | Ajustar interface com feedback      | QA Líder        | UI/UX Designer |
+| Manuais e documentação final           | Manual      | 2024-12-10  | Documentação   | Clareza e completude  | 2024-12-15    | Revisar informações                 | QA Líder        | Documentação   |
+
+---
 
 ### Padrões e Normas Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+| Nome               | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| ISO/IEC 25010      | Padrão para qualidade de software, incluindo características de usabilidade e confiabilidade. |
+| IEEE 829           | Norma para documentação de teste de software.                           |
+| ISO/IEC 27001      | Normas de segurança da informação aplicáveis ao sistema de monitoramento. |
+| WAI-ARIA           | Diretrizes para acessibilidade da interface visual.                      |
+
+---
 
 ### Ambiente das Atividades de Qualidade
 
-| Ambiente   | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+| Ambiente       | Descrição                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| Laboratório 1  | Equipado com câmeras de alta definição para teste do modelo em ambiente controlado. |
+| Servidor QA    | Infraestrutura em nuvem para simulação e teste de integração do modelo.  |
+| Sala de reunião| Ambiente para testes de usabilidade e apresentações para stakeholders.   |
+
+---
 
 ### Equipe de Qualidade
 
-| Nome       | Responsabilidade | 
-|------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+| Nome                | Responsabilidade                          | 
+|---------------------|------------------------------------------|
+| Italo Henrique Soares dos Santos   | QA Líder                                |
+| Luiza Isabel Gomes | UI/UX Tester (contratada)                           |
+| Rodrigo Reis do Valle      | Teste de integração e desempenho         |
+| Lucas de Souza Bueno          | Validação documental e padrões           |
+
+---
 
 ### Metodologias de Qualidade Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+| Nome               | Descrição                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Testes automatizados | Scripts que verificam precisão, desempenho e integração do modelo.     |
+| Testes manuais       | Validação de interfaces e documentação com base no feedback dos stakeholders. |
+| Inspeção de código   | Revisão de padrões de codificação e boas práticas antes do deploy.      |
+
 
 ```diff
 + Tarefa 09:
