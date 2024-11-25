@@ -286,26 +286,44 @@ As metodologias de qualidade foram definidas para garantir uma verificação efi
 
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
+#### Ferramentas Utilizadas:
 
-- Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
-- Papéis:
-- - ...
-  - ...
-  - ...
-- Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams)
+- [GitHub](https://github.com/)  
+- [Microsoft Project](https://www.microsoft.com/pt-br/microsoft-365/project/project-management-software)
+- [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+- [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word)
+- [Gmail](https://www.google.com/intl/pt-BR/gmail/about/)
+
+---
+
+#### Papéis:
+
+- **Gerente de Projetos**: Responsável por organizar reuniões, atualizar cronogramas e gerar relatórios para stakeholders.  
+- **Líder Técnico**: Coordena a WBS, seu dicionário e o plano de qualidade; supervisiona atualizações do produto.  
+- **Equipe de QA**: Elabora e mantém checklists de inspeção, relatórios de testes e garante o alinhamento com o plano de qualidade.  
+- **Engenheiro de Software Líder**: Administra a lista de riscos, coordena inspeções e colabora na produção de relatórios técnicos.  
+- **Stakeholders**: Recebem relatórios de progresso, feedbacks e atualizações do produto para alinhamento estratégico.  
+
+---
+
+#### Princípios Gerais:
+
+1. **Clareza**: Todas as mensagens e relatórios devem ser escritos de forma simples e direta, evitando jargões desnecessários.  
+2. **Objetividade**: Foco na comunicação de informações relevantes e alinhadas aos objetivos do projeto.  
+3. **Imparcialidade**: Informações devem ser transmitidas sem favorecimento de interesses específicos, priorizando a verdade factual.  
+4. **Impessoalidade**: O conteúdo deve ser centrado no projeto e nos resultados, sem conotações pessoais ou subjetivas.  
+5. **Cordialidade**: A interação entre os envolvidos deve respeitar normas de etiqueta e manter um ambiente colaborativo e respeitoso.  
+
+---
+
+#### Plano de Gerência de Configuração:  
+O controle de versões será feito no **GitHub**, em repositórios privados. As alterações serão revisadas antes de serem integradas ao ramo principal, com as seguintes responsabilidades:  
+- **Gerente de Projetos**: Aprova mudanças no escopo e na documentação.  
+- **Líder Técnico**: Revisa e aprova ajustes técnicos no código e na WBS.  
+- **Equipe de QA**: Garante que as versões seguem os critérios de qualidade.  
+
+Essa estrutura assegura rastreamento, controle de mudanças e alinhamento entre todos os envolvidos.
 
 ```diff
 + Tarefa 11:
