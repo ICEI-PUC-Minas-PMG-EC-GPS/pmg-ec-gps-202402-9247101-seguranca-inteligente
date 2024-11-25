@@ -261,22 +261,22 @@ As metodologias de qualidade foram definidas para garantir uma verificação efi
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Entregável                         | Público-Alvo                  | Método de Comunicação             | Frequência         | Responsável       |  
+|------------------------------------|-------------------------------|-----------------------------------|--------------------|-------------------|  
+| Ata de reunião                     | Equipe e stakeholders         | Reunião virtual no **Microsoft Teams** | Após cada reunião  | Gerente de Projetos |  
+| Declaração de escopo               | Equipe de desenvolvimento         | Arquivo *Markdown* no repositório do **GitHub** | Atualização inicial e após alterações significativas | Gerente de Projetos |  
+| WBS                                | Equipe de desenvolvimento     | Documento criado pelo **Microsoft Project** | Semanal            | Líder Técnico      |  
+| Dicionário da WBS                  | Equipe de desenvolvimento     | Documento criado pelo **Microsoft Project** | Atualização contínua | Líder Técnico      |  
+| Cronograma                         | Equipe e stakeholders         | Gráfico de Gantt criado pelo **Microsoft Project** | Quinzenal          | Gerente de Projetos |  
+| Lista de Riscos                    | Equipe e stakeholders         | Planilha no **Microsoft Excel** | Mensal             | Engenheiro de Software Líder |  
+| Plano de qualidade                 | Equipe de QA | Arquivo *Markdown* no repositório do **GitHub** | Após revisões importantes | Líder técnico |  
+| Plano de projeto                   | Stakeholders e equipe         | Documento PDF concebido em **Microsoft Word** | Após alterações relevantes | Gerente de Projetos |  
+| Relatório de Progresso             | Stakeholders                  | Relatório via **Microsoft Word**, apresentação no **Microsoft Teams** | Quinzenal          | Gerente de Projetos |  
+| Relatório de Aderência ao Processo | Equipe de desenvolvimento     | Planilha criada em **Microsoft Excel** | Semanal            | Líder Técnico |  
+| Checklists de Inspeção             | Equipe de QA e gerente                  | Planilhas criadas no **Microsoft Excel** | Após cada inspeção | Equipe de QA      |  
+| Feedback dos Stakeholders          | Stakeholders e gerente        | E-Mails pelo **Gmail** ou Reunião via **Microsoft Teams** | Mensal             | Gerente de Projetos |  
+| Relatórios de Testes               | Equipes de QA e desenvolvimento| Relatórios PDF em **Microsoft Word** e Apuração de testes automatizados via **GitHub** | Após cada sprint   | Equipe de QA       |  
+| Atualizações do Produto            | Stakeholders                  | Vídeos demonstração enviados por **Gmail** ou Reuniões no **Microsoft Teams** | Mensal             | Líder Técnico      |  
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
