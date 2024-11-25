@@ -250,7 +250,7 @@ As metodologias de qualidade foram definidas para garantir uma verificação efi
 
 ## Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
+O plano de comunicação do projeto garante a troca eficiente de informações entre a equipe e os stakeholders, promovendo clareza, objetividade e transparência. Focado na colaboração e no alinhamento, ele estabelece diretrizes para manter todos informados e engajados ao longo do desenvolvimento.
 
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
