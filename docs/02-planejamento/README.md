@@ -337,33 +337,20 @@ Essa estrutura assegura rastreamento, controle de mudanças e alinhamento entre 
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O plano de riscos busca identificar e lidar com possíveis problemas que podem afetar o projeto. Ele ajuda a planejar ações para evitar ou minimizar impactos negativos, além de aproveitar oportunidades, garantindo que o projeto siga conforme o esperado em termos de prazo e orçamento.
 
+| Categoria do Risco  | Descrição do Risco                                               | Impacto | Risco | Medidas de Prevenção (Contramedidas)                                    | Medidas de Contingência (Mitigação)                           |  
+|---------------------|------------------------------------------------------------------|---------|-------|------------------------------------------------------------------------|---------------------------------------------------------------|  
+| Cronograma          | Atraso nas entregas, possivelmente por conta de imprevistos no treino do modelo | Alto    | Alto  | Alocação de mais recursos quando necessário.   | Reavaliação dos prazos e redistribuição das tarefas.          |  
+| Orçamento           | Gasto excessivo com fornecedores ou tecnologias necessárias para o projeto | Alto    | Alto  | Adotar um controle rigoroso de compras.      | Corte de gastos ou busca por fontes alternativas de investimento no projeto. |  
+| Qualidade           | O modelo não alcançar a qualidade desejada pelos investidores | Alto    | Alto  | Insistência nos testes, validando-os com os investidores durante o desenvolvimento. | Revisão do modelo e otimização para atender aos requisitos.   |  
+| Cliente             | Feedback inesperado dos clientes, pesquisas insatisfatória | Médio   | Médio | Reuniões periódicas, relatórios de progresso.                         | Participação mais presente do cliente, reuniões adicionais.      |  
+| Integração          | Dificuldades na integração do modelo com o sistema de monitoramento existente | Alto    | Alto  | Estudo detalhado da integração e testes prévios.                | Refatoração do sistema para garantir maior compatibilidade e eficiência. |  
+| Equipe               | Falta de recursos humanos qualificados para o projeto | Médio   | Médio | Adoção de treinamento por cursos e/ou a contratação de novos profissionais.    | Realocação de tarefas e prioridade nas atividades críticas.   |  
+| Tecnologia          | Incompreensão das tecnologias utilizadas (Modelos de Linguagem) | Alto    | Alto  | Seleção cuidadosa de tecnologias e parceiros, testes antecipados.     | Substituição de tecnologias ou ajustes no modelo.             |  
+| Feedback dos Investidores | Mudanças de última hora nos requisitos de clientes e investidores | Médio   | Médio | Acompanhamento constante com os investidores. | Revisão de funcionalidades e adequação das entregas.           |  
+| Comunicação         | Falhas de comunicação entre as equipes de desenvolvimento e investidores | Médio   | Médio | Acostumar a utilizar com frequência as ferramentas de comunicação          | Reforço nas reuniões, com relatórios claros e mais frequentes. |
 
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
-
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
