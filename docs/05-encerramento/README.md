@@ -22,21 +22,48 @@
 
 # Encerramento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### Objetivo do projeto
+
+**Objetivo geral:**  
+Fornecer uma aplicação inteligente de auxílio à segurança residencial, por meio do uso de visão computacional e aprendizado de máquina.
+
+**Objetivos específicos:**
+- Análise e segmentação de imagens para identificação de pessoas e objetos.
+- Integrar software com o sistema da câmera de segurança existente ou a ser instalada.
+- Hospedar o sistema em um serviço de cloud confiável.
+- Comparar a insegurança anterior e posterior à implementação do sistema.
+
+---
+
+### Resumo do projeto
+
+Foi produzido um sistema de software de auxílio à segurança que utiliza um modelo de visão computacional para análise de imagens capturadas por câmeras de segurança. Assim, essa aplicação é capaz de alertar seus usuários sobre eventos de ameaça à segurança de propriedades particulares, com um alto nível de precisão.
+
+---
+
+### Artefatos entregues
+
+Foram produzidos diversos artefatos ao longo da execução do projeto. Dentre eles, estão:
+- Modelo treinado de segmentação de imagem;
+- Aplicação móvel e web voltada aos usuários;
+- Aplicação backend que possui acesso ao modelo.
+
+---
+
+### Conclusões
+
+Portanto, conclui-se que o projeto foi bem-sucedido, dado que o uso do modelo foi eficaz para a detecção de invasores, a aplicação foi hospedada em um serviço de computação em nuvem satisfatório e o uso do produto gerado foi eficaz no que diz respeito à segurança das propriedades.
+
+**Dentre as lições aprendidas pelos membros da equipe, destacam-se:**
+- Aprendizado do processo de criação e manutenção de um cronograma no contexto de projetos de software;
+- Aprendizado da realização de orçamento de produtos para projetos;
+- Compreensão de diferentes processos e metodologias em projetos de software;
+- Entendimento do funcionamento e da eficácia da metodologia Scrum;
+- Aprendizado no que tange ao gerenciamento da qualidade dos processos e dos artefatos de um projeto de software.
 
 > O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
 > Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
 > O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
-
-
-# Lições Aprendidas 
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
-> Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
-> A documentação dessas lições aprendidas abrange não apenas os aspectos técnicos, mas também os relacionados ao gerenciamento de equipes, comunicação, riscos, entre outros. 
-> Ao compartilhar essas experiências, as organizações têm a oportunidade de evitar a repetição de erros, replicar práticas bem-sucedidas e fortalecer a capacidade de gerenciamento de projetos ao longo do tempo. 
 
 # Auto-avaliação
 
