@@ -16,12 +16,6 @@ O projeto visa desenvolver um sistema de software baseado em visão computaciona
 * [Felipe Augusto Lima Reis](https://github.com/falreis)
 
 ## Gerenciamento do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
-
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
 2. [Planejamento](docs/02-planejamento)
@@ -31,7 +25,7 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Assista ao vídeo de apresentação do trabalho clicando no link abaixo:
 
 > Adicione aqui o vídeo explicativo do trabalho.
 > Utilize a estrutura (link) abaixo para apresentação do vídeo.
@@ -41,9 +35,3 @@ Fases do Gerenciamento do Projeto:
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
