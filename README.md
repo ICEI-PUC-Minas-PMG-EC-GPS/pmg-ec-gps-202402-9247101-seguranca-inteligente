@@ -25,12 +25,5 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-Assista ao vídeo de apresentação do trabalho clicando no link abaixo:
-
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
-
+Assista ao vídeo de apresentação do trabalho clicando na imagem abaixo:
 [![Imagem do Trabalho](docs/02-planejamento/images/capa_apresentacao_seg_intelig.png)](https://youtu.be/IKoVj-mqkeY)
