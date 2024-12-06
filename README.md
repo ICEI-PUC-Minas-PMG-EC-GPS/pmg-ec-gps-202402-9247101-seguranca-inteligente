@@ -26,4 +26,5 @@ Fases do Gerenciamento do Projeto:
 ## Apresentação do Trabalho
 
 Assista ao vídeo de apresentação do trabalho clicando na imagem abaixo:
+
 [![Imagem do Trabalho](docs/02-planejamento/images/capa_apresentacao_seg_intelig.png)](https://youtu.be/IKoVj-mqkeY)
