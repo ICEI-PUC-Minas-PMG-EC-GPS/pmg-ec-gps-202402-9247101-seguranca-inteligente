@@ -33,5 +33,4 @@ Assista ao vídeo de apresentação do trabalho clicando no link abaixo:
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://youtu.be/IKoVj-mqkeY)
-
+[![Imagem do Trabalho](docs/02-planejamento/images/capa_apresentacao_seg_intelig.png)](https://youtu.be/IKoVj-mqkeY)
